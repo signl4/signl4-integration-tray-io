@@ -35,7 +35,7 @@ All it takes to pair Tray.io and SIGNL4 is a Http Client Connector in your Tray.
 
 ## How To Integrate
 
-### Integrating SIGNL4 with the Tray.io
+### Integrating SIGNL4 with Tray.io
 
 In our example we will send information about a new Task in Salesforce to our SIGNL4 team.
 
