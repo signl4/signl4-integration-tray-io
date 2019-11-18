@@ -84,7 +84,7 @@ Wir senden einen HTTP-Push-Request an SIGNL4, um einen Alarm auszulösen. Die UR
 
 ![Tray.io Http Client](tray-io-workflow-signl4.png)
 
-6. Testen Sie es  
+5. Testen Sie es  
 
 Um den Workflow zu testen können Sie einem neuen Task in Salesforce anlegen. Dies löst den Workflow in Tray.io aus und sendet dann die Task-Daten an Ihr SIGNL4-Team.
 
